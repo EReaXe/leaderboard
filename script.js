@@ -7,7 +7,7 @@ let leaderboardData = [
   { name: "Etli Pilav", score: 1 },
   { name: "Melih Dolarım", score: 1 },
   { name: "Faruk", score: 0.5 },
-  { name: "Mustafa Rock", score: 0 },
+  { name: "Mustafa Rock", score: 0.5 },
   { name: "Beof Karaca", score: 0 },
 ];
 
