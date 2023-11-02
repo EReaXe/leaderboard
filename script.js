@@ -9,6 +9,7 @@ let leaderboardData = [
   { name: "Faruk", score: 0.5 },
   { name: "Mustafa Rock", score: 0.5 },
   { name: "Beof Karaca", score: 0 },
+  { name: "LunarLords", score: 0.5 },
 ];
 
 // Function to populate the leaderboard table
