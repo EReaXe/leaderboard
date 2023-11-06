@@ -1,7 +1,7 @@
 // Sample leaderboard data
 let leaderboardData = [
   { name: "Ali K.", score: 5.5 },
-  { name: "Beof Karaca", score: 4 },
+  { name: "Beof Karaca", score: 5.5 },
   { name: "Erkan Erkanson", score: 5.5 },
   { name: "Etli Pilav", score: 3.5 },
   { name: "Faruk", score: 5.5 },
