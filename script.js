@@ -6,7 +6,7 @@ let leaderboardData = [
   { name: "Etli Pilav", score: 3.5 },
   { name: "Faruk", score: 5.5 },
   { name: "G. Ahmet M. P.", score: 6 },
-  { name: "LunarLords", score: 4.5 },
+  { name: "LunarLords", score: 5 },
   { name: "Melih Dolarım", score: 5.5 },
   { name: "Mimar Sinan", score: 6 },
   { name: "Mustafa Rock", score: 5.5 },
