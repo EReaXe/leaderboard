@@ -4,7 +4,7 @@ let leaderboardData = [
   { name: "Beof Karaca", score: 5.5 },
   { name: "̶E̶r̶k̶a̶n̶ ̶E̶r̶k̶a̶n̶s̶o̶n̶", score: 7 },
   { name: "Etli Pilav", score: 5.5 },
-  { name: "Faruk", score: 6.5 },
+  { name: "̶F̶a̶r̶u̶k̶", score: 7 },
   { name: "G. Ahmet M. P.", score: 8 },
   { name: "LunarLords", score: 7 },
   { name: "Melih Dolarım", score: 7.5 },
