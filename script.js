@@ -1,15 +1,15 @@
 // Sample leaderboard data
 let leaderboardData = [
   { name: "̶A̶l̶i̶ ̶K̶.̶", score: 7 },
-  { name: "Beof Karaca", score: 5.5 },
+  { name: "Beof Karaca", score: 6.5 },
   { name: "̶E̶r̶k̶a̶n̶ ̶E̶r̶k̶a̶n̶s̶o̶n̶", score: 7 },
-  { name: "Etli Pilav", score: 5.5 },
+  { name: "Etli Pilav", score: 6.5 },
   { name: "̶F̶a̶r̶u̶k̶", score: 7 },
-  { name: "G. Ahmet M. P.", score: 8 },
-  { name: "LunarLords", score: 7 },
+  { name: "G. Ahmet M. P.", score: 9 },
+  { name: "LunarLords", score: 8 },
   { name: "Melih Dolarım", score: 7.5 },
   { name: "Mimar Sinan", score: 8 },
-  { name: "Mustafa Rock", score: 7.5 },
+  { name: "Mustafa Rock", score: 8.5 },
 ];
 
 // Function to populate the leaderboard table
