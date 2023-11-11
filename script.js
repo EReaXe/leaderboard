@@ -1,10 +1,10 @@
 // Sample leaderboard data
 let leaderboardData = [
-  { name: "̶A̶l̶i̶ ̶K̶.̶", score: 7 },
+  { name: "̶A̶l̶i̶ ̶K̶.̶", score: 8 },
   { name: "Beof Karaca", score: 8.5 },
   { name: "̶E̶r̶k̶a̶n̶ ̶E̶r̶k̶a̶n̶s̶o̶n̶", score: 7 },
   { name: "Etli Pilav", score: 8.5 },
-  { name: "̶F̶a̶r̶u̶k̶", score: 7 },
+  { name: "̶F̶a̶r̶u̶k̶", score: 7.5 },
   { name: "G. Ahmet M. P.", score: 11 },
   { name: "LunarLords", score: 10 },
   { name: "Melih Dolarım", score: 9 },
