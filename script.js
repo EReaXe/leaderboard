@@ -7,7 +7,7 @@ let leaderboardData = [
   { name: "̶F̶a̶r̶u̶k̶", score: 7.5 },
   { name: "G. Ahmet M. P.", score: 14 },
   { name: "LunarLords", score: 12 },
-  { name: "M̶e̶l̶i̶h̶ ̶D̶o̶l̶a̶r̶ı̶m̶", score: 12 },
+  { name: "̶M̶e̶l̶i̶h̶ ̶D̶o̶l̶a̶r̶ı̶m̶", score: 12 },
   { name: "Mimar Sinan", score: 13.5 },
   { name: "Mustafa Rock", score: 13.5 },
 ];
