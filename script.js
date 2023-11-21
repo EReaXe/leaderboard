@@ -1,12 +1,12 @@
 // Sample leaderboard data
 let leaderboardData = [
   { name: "̶A̶l̶i̶ ̶K̶.̶", score: 8 },
-  { name: "Beof Karaca", score: 16.5 },
+  { name: "Beof Karaca", score: 17.5 },
   { name: "̶E̶r̶k̶a̶n̶ ̶E̶r̶k̶a̶n̶s̶o̶n̶", score: 7 },
-  { name: "Etli Pilav", score: 15.5 },
+  { name: "Etli Pilav", score: 16.5 },
   { name: "̶F̶a̶r̶u̶k̶", score: 7.5 },
   { name: "̶G̶.̶ ̶A̶h̶m̶e̶t̶ ̶M̶.̶ ̶P̶.̶", score: 17 },
-  { name: "LunarLords", score: 17 },
+  { name: "̶L̶u̶n̶a̶r̶L̶o̶r̶d̶s̶", score: 18 },
   { name: "̶M̶e̶l̶i̶h̶ ̶D̶o̶l̶a̶r̶ı̶m̶", score: 12 },
   { name: "̶̶M̶i̶m̶a̶r̶ ̶S̶i̶n̶a̶n̶", score: 18.5 },
   { name: "̶M̶u̶s̶t̶a̶f̶a̶ ̶R̶o̶c̶k̶", score: 16.5 },
