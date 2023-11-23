@@ -3,7 +3,7 @@ let leaderboardData = [
   { name: "̶A̶l̶i̶ ̶K̶.̶", score: 8 },
   { name: "̶B̶e̶o̶f̶ ̶K̶a̶r̶a̶c̶a̶", score: 19.5 },
   { name: "̶E̶r̶k̶a̶n̶ ̶E̶r̶k̶a̶n̶s̶o̶n̶", score: 7 },
-  { name: "Etli Pilav", score: 18 },
+  { name: "Etli Pilav", score: 19 },
   { name: "̶F̶a̶r̶u̶k̶", score: 7.5 },
   { name: "̶G̶.̶ ̶A̶h̶m̶e̶t̶ ̶M̶.̶ ̶P̶.̶", score: 17 },
   { name: "̶L̶u̶n̶a̶r̶L̶o̶r̶d̶s̶", score: 18 },
